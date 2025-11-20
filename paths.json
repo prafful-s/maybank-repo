@@ -13,12 +13,10 @@
     "/content/wknd-universal/configuration:/.helix/config.json",
     "/content/wknd-universal/metadata:/metadata.json",
     "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/:/"
+    "/content/wknd-universal/placeholders:/placeholders.json"
   ],
   "includes": [
     "/content/wknd-universal/",
-    "/content/dam/wknd-universal/",
-    "/content/forms/af/maybank/"
+    "/content/dam/wknd-universal/"
   ]
 }
