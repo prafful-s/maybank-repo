@@ -13,7 +13,8 @@
     "/content/wknd-universal/configuration:/.helix/config.json",
     "/content/wknd-universal/metadata:/metadata.json",
     "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/wknd-universal/placeholders:/placeholders.json",
+    "/:/"
   ],
   "includes": [
     "/content/wknd-universal/",
